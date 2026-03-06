@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating my_services.egg-info
+writing my_services.egg-info/PKG-INFO
+writing dependency_links to my_services.egg-info/dependency_links.txt
+writing entry points to my_services.egg-info/entry_points.txt
+writing requirements to my_services.egg-info/requires.txt
+writing top-level names to my_services.egg-info/top_level.txt
+writing manifest file 'my_services.egg-info/SOURCES.txt'
+reading manifest file 'my_services.egg-info/SOURCES.txt'
+writing manifest file 'my_services.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/swarghane/phase1_practice_ws/install/my_services/lib/python3.10/site-packages/my-services.egg-link (link to .)
+
+Installed /home/swarghane/phase1_practice_ws/build/my_services
+running symlink_data
+creating /home/swarghane/phase1_practice_ws/install/my_services/share/ament_index
+creating /home/swarghane/phase1_practice_ws/install/my_services/share/ament_index/resource_index
+creating /home/swarghane/phase1_practice_ws/install/my_services/share/ament_index/resource_index/packages
+symbolically linking /home/swarghane/phase1_practice_ws/build/my_services/resource/my_services -> /home/swarghane/phase1_practice_ws/install/my_services/share/ament_index/resource_index/packages
+symbolically linking /home/swarghane/phase1_practice_ws/build/my_services/package.xml -> /home/swarghane/phase1_practice_ws/install/my_services/share/my_services

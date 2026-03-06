@@ -1,0 +1,23 @@
+[0.724s] Invoking command in '/home/swarghane/phase1_practice_ws/src/build/my_services': PYTHONPATH=/home/swarghane/phase1_practice_ws/src/build/my_services/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swarghane/phase1_practice_ws/src/install/my_services/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/swarghane/phase1_practice_ws/src/build/my_services/build --no-deps symlink_data
+[0.892s] running develop
+[0.984s] running egg_info
+[0.984s] creating my_services.egg-info
+[0.985s] writing my_services.egg-info/PKG-INFO
+[0.985s] writing dependency_links to my_services.egg-info/dependency_links.txt
+[0.986s] writing entry points to my_services.egg-info/entry_points.txt
+[0.987s] writing requirements to my_services.egg-info/requires.txt
+[0.987s] writing top-level names to my_services.egg-info/top_level.txt
+[0.988s] writing manifest file 'my_services.egg-info/SOURCES.txt'
+[0.990s] reading manifest file 'my_services.egg-info/SOURCES.txt'
+[0.991s] writing manifest file 'my_services.egg-info/SOURCES.txt'
+[0.993s] running build_ext
+[0.993s] Creating /home/swarghane/phase1_practice_ws/src/install/my_services/lib/python3.10/site-packages/my-services.egg-link (link to .)
+[0.994s] 
+[0.994s] Installed /home/swarghane/phase1_practice_ws/src/build/my_services
+[0.994s] running symlink_data
+[0.994s] creating /home/swarghane/phase1_practice_ws/src/install/my_services/share/ament_index
+[0.994s] creating /home/swarghane/phase1_practice_ws/src/install/my_services/share/ament_index/resource_index
+[0.995s] creating /home/swarghane/phase1_practice_ws/src/install/my_services/share/ament_index/resource_index/packages
+[0.995s] symbolically linking /home/swarghane/phase1_practice_ws/src/build/my_services/resource/my_services -> /home/swarghane/phase1_practice_ws/src/install/my_services/share/ament_index/resource_index/packages
+[0.996s] symbolically linking /home/swarghane/phase1_practice_ws/src/build/my_services/package.xml -> /home/swarghane/phase1_practice_ws/src/install/my_services/share/my_services
+[1.022s] Invoked command in '/home/swarghane/phase1_practice_ws/src/build/my_services' returned '0': PYTHONPATH=/home/swarghane/phase1_practice_ws/src/build/my_services/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/swarghane/phase1_practice_ws/src/install/my_services/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/swarghane/phase1_practice_ws/src/build/my_services/build --no-deps symlink_data
