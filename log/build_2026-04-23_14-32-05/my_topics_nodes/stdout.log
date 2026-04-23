@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating my_topics_nodes.egg-info
+writing my_topics_nodes.egg-info/PKG-INFO
+writing dependency_links to my_topics_nodes.egg-info/dependency_links.txt
+writing entry points to my_topics_nodes.egg-info/entry_points.txt
+writing requirements to my_topics_nodes.egg-info/requires.txt
+writing top-level names to my_topics_nodes.egg-info/top_level.txt
+writing manifest file 'my_topics_nodes.egg-info/SOURCES.txt'
+reading manifest file 'my_topics_nodes.egg-info/SOURCES.txt'
+writing manifest file 'my_topics_nodes.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/python3.10/site-packages/my-topics-nodes.egg-link (link to .)
+Installing adder_gen script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing adder_sum script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing camera_pub script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing debouncer script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing dist_monitor script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing image_sub script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing my_listener script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing my_talker script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing safety_mon script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+Installing square_walker script to /home/swarghane/phase1_practice_ws/install/my_topics_nodes/lib/my_topics_nodes
+
+Installed /home/swarghane/phase1_practice_ws/build/my_topics_nodes
+running symlink_data
+creating /home/swarghane/phase1_practice_ws/install/my_topics_nodes/share/ament_index
+creating /home/swarghane/phase1_practice_ws/install/my_topics_nodes/share/ament_index/resource_index
+creating /home/swarghane/phase1_practice_ws/install/my_topics_nodes/share/ament_index/resource_index/packages
+symbolically linking /home/swarghane/phase1_practice_ws/build/my_topics_nodes/resource/my_topics_nodes -> /home/swarghane/phase1_practice_ws/install/my_topics_nodes/share/ament_index/resource_index/packages
+symbolically linking /home/swarghane/phase1_practice_ws/build/my_topics_nodes/package.xml -> /home/swarghane/phase1_practice_ws/install/my_topics_nodes/share/my_topics_nodes
+creating /home/swarghane/phase1_practice_ws/install/my_topics_nodes/share/my_topics_nodes/launch

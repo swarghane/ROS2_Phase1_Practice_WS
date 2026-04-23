@@ -1,8 +1,0 @@
-[console_scripts]
-add_two_ints_client = my_services.add_two_ints_client:main
-add_two_ints_server = my_services.add_two_ints_server:main
-dist_safety_client = my_services.dist_safety_client:main
-dist_safety_server = my_services.dist_safety_server:main
-dynamic_tf_publisher = my_services.dynamic_tf_publisher:main
-static_broadcaster = my_services.static_broadcaster:main
-
